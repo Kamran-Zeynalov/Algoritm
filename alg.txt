@@ -1,1 +1,2 @@
-Algoritm qurma yontemleri
+Algoritm qurma yontemler.
+Cox yenilik
